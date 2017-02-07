@@ -1,0 +1,8 @@
+title: Maname Fonts
+baseurl: 
+author: Pathum Egodawatta
+url: manamefonts.com
+permalink: pretty
+
+exclude:
+  - README.md
