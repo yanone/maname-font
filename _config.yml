@@ -1,4 +1,4 @@
-title: Maname Fonts
+title: Maname Fonts මනමේ අක්ෂර රටා 
 baseurl: 
 author: Pathum Egodawatta
 url: manamefonts.com
@@ -6,3 +6,9 @@ permalink: pretty
 
 exclude:
   - README.md
+
+
+
+fonts:
+    current_stable: 0.0.1
+    current_development: 0.0.2-aplha 

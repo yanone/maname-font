@@ -27,6 +27,21 @@ body {
     background-color: #000000;
     border-radius: 2px;
 }
+
+
+/*Contributors*/
+.contributors ul li{
+ list-style: none;
+    float: left;
+}
+
+.contributor-pic {
+    width: 50px;
+    background: #eee;
+    padding: 5px;
+    margin: 2px;
+}
+
 /*Logos*/
 
 .logos img {
@@ -34,6 +49,9 @@ body {
     max-height: 200px;
     width: 100%;
 }
+
+
+
 /*try*/
 
 #try_input {
@@ -264,3 +282,5 @@ body {
 .timeline-body > p + p {
     margin-top: 5px;
 }
+
+
